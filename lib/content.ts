@@ -61,7 +61,7 @@ export const COPY: Record<Lang, Copy> = {
     stats: [
       { value: '15+', label: '年のプロダクト開発' },
       { value: '17', label: 'スタジオの機能' },
-      { value: '4', label: '分野（IoT・eVTOL・金融・企業向けシステム）' },
+      { value: '4', label: '分野（IoT・低空モビリティ・金融・企業向けシステム）' },
       { value: 'N2', label: '日本語能力試験' },
     ],
     studio: {
@@ -108,7 +108,7 @@ export const COPY: Record<Lang, Copy> = {
       eras: [
         { period: '2025 —', field: 'エンタープライズIT（日本）', role: 'ブリッジSE', current: true, points: ['顧客との技術調整・障害対応', 'AI基盤の構築に参画'] },
         { period: '2024 — 2025', field: '金融（日本）', role: 'システムエンジニア', points: ['金融機関向けアプリの開発'] },
-        { period: '2021 — 2023', field: 'eVTOL（空飛ぶクルマ）', role: 'システム開発エンジニア', points: ['有人自律飛行機（eVTOL）業界向けシステムの開発'] },
+        { period: '2021 — 2023', field: '低空モビリティ（ヘリコプター・eVTOL）', role: 'システム開発エンジニア', points: ['ヘリコプター・eVTOL による低空輸送事業向けシステムの開発'] },
         { period: '2014 — 2021', field: 'エンタープライズ・モバイル／Web', role: 'フルスタックエンジニア → チームリーダー', points: ['iOS／Android／Vue.js のフルスタック開発', '設計・技術選定を担当し、開発工程の各段階に参加'] },
         { period: '2009 — 2014', field: 'スマートホーム・IoT', role: 'モバイルアプリエンジニア → チームリーダー', points: ['IoTデバイス連携モバイルアプリの開発'] },
       ],
@@ -129,7 +129,7 @@ export const COPY: Record<Lang, Copy> = {
     stats: [
       { value: '15+', label: 'years building products' },
       { value: '17', label: 'studio features' },
-      { value: '4', label: 'areas: IoT, eVTOL, finance, enterprise software' },
+      { value: '4', label: 'areas: IoT, low-altitude air mobility, finance, enterprise software' },
       { value: 'N2', label: 'Japanese (JLPT)' },
     ],
     studio: {
@@ -176,7 +176,7 @@ export const COPY: Record<Lang, Copy> = {
       eras: [
         { period: '2025 —', field: 'Enterprise IT (Japan)', role: 'Bridge Systems Engineer', current: true, points: ['Technical coordination and incident response with the client', 'Contributing to the development of an AI platform'] },
         { period: '2024 — 2025', field: 'Finance (Japan)', role: 'Systems Engineer', points: ['App development for a financial institution'] },
-        { period: '2021 — 2023', field: 'eVTOL / urban air mobility', role: 'Software Engineer', points: ['Developed systems for the autonomous passenger eVTOL industry'] },
+        { period: '2021 — 2023', field: 'Low-altitude air mobility (helicopter & eVTOL)', role: 'Software Engineer', points: ['Developed systems for helicopter and eVTOL low-altitude air travel'] },
         { period: '2014 — 2021', field: 'Enterprise mobile & web', role: 'Full-stack Engineer → Team Lead', points: ['Full-stack development across iOS, Android and Vue.js', 'Led system design and technology selection; worked across each stage of development'] },
         { period: '2009 — 2014', field: 'Smart home & IoT', role: 'Mobile Developer → Team Lead', points: ['Mobile apps for connected devices'] },
       ],
@@ -197,7 +197,7 @@ export const COPY: Record<Lang, Copy> = {
     stats: [
       { value: '15+', label: '年產品開發' },
       { value: '17', label: '項工作室功能' },
-      { value: '4', label: '個領域：IoT・eVTOL・金融・企業系統' },
+      { value: '4', label: '個領域：IoT・低空經濟・金融・企業系統' },
       { value: 'N2', label: '日本語能力試驗' },
     ],
     studio: {
@@ -244,7 +244,7 @@ export const COPY: Record<Lang, Copy> = {
       eras: [
         { period: '2025 —', field: '企業 IT（日本）', role: '橋接 SE', current: true, points: ['與委託方的技術協調與故障處理', '參與 AI 基盤建置'] },
         { period: '2024 — 2025', field: '金融（日本）', role: '系統工程師', points: ['金融機構 App 開發'] },
-        { period: '2021 — 2023', field: 'eVTOL（載人飛行器）', role: '系統開發工程師', points: ['載人自動駕駛飛行器（eVTOL）產業系統開發'] },
+        { period: '2021 — 2023', field: '低空經濟（直升機・eVTOL）', role: '系統開發工程師', points: ['直升機與 eVTOL 低空出行業務系統開發'] },
         { period: '2014 — 2021', field: '企業行動端／Web', role: '全端工程師 → 團隊負責人', points: ['iOS／Android／Vue.js 全端開發', '負責設計與技術選型，參與各開發階段'] },
         { period: '2009 — 2014', field: '智慧家居・IoT', role: '行動 App 工程師 → 團隊負責人', points: ['IoT 裝置連動的行動 App 開發'] },
       ],
@@ -265,7 +265,7 @@ export const COPY: Record<Lang, Copy> = {
     stats: [
       { value: '15+', label: '年产品开发' },
       { value: '17', label: '项工作室功能' },
-      { value: '4', label: '个领域：IoT・eVTOL・金融・企业系统' },
+      { value: '4', label: '个领域：IoT・低空经济・金融・企业系统' },
       { value: 'N2', label: '日本语能力考试' },
     ],
     studio: {
@@ -312,7 +312,7 @@ export const COPY: Record<Lang, Copy> = {
       eras: [
         { period: '2025 —', field: '企业 IT（日本）', role: '桥接 SE', current: true, points: ['与委托方的技术协调与故障处理', '参与 AI 基盘建设'] },
         { period: '2024 — 2025', field: '金融（日本）', role: '系统工程师', points: ['金融机构 App 开发'] },
-        { period: '2021 — 2023', field: 'eVTOL（载人飞行器）', role: '系统开发工程师', points: ['载人自动驾驶飞行器（eVTOL）行业系统开发'] },
+        { period: '2021 — 2023', field: '低空经济（直升机・eVTOL）', role: '系统开发工程师', points: ['直升机与 eVTOL 低空出行业务系统开发'] },
         { period: '2014 — 2021', field: '企业移动端／Web', role: '全栈工程师 → 团队负责人', points: ['iOS／Android／Vue.js 全栈开发', '负责设计与技术选型，参与各开发阶段'] },
         { period: '2009 — 2014', field: '智能家居・IoT', role: '移动 App 工程师 → 团队负责人', points: ['IoT 设备联动的移动 App 开发'] },
       ],
