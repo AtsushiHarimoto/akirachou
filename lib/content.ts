@@ -61,7 +61,7 @@ export const COPY: Record<Lang, Copy> = {
     stats: [
       { value: '15+', label: '年のプロダクト開発' },
       { value: '17', label: 'スタジオの機能' },
-      { value: '4', label: '分野（IoT・航空・金融・企業向けシステム）' },
+      { value: '4', label: '分野（IoT・ドローン・金融・企業向けシステム）' },
       { value: 'N2', label: '日本語能力試験' },
     ],
     studio: {
@@ -108,7 +108,7 @@ export const COPY: Record<Lang, Copy> = {
       eras: [
         { period: '2025 —', field: 'エンタープライズIT（日本）', role: 'ブリッジSE', current: true, points: ['顧客との技術調整・障害対応', 'AI基盤の構築に参画'] },
         { period: '2024 — 2025', field: '金融（日本）', role: 'システムエンジニア', points: ['金融機関向けアプリの開発'] },
-        { period: '2021 — 2023', field: '航空', role: 'システム開発エンジニア', points: ['航空業界向け業務システムの開発'] },
+        { period: '2021 — 2023', field: 'ドローン', role: 'システム開発エンジニア', points: ['ドローン業界向けシステムの開発'] },
         { period: '2014 — 2021', field: 'エンタープライズ・モバイル／Web', role: 'フルスタックエンジニア → チームリーダー', points: ['iOS／Android／Vue.js のフルスタック開発', '設計・技術選定を担当し、開発工程の各段階に参加'] },
         { period: '2009 — 2014', field: 'スマートホーム・IoT', role: 'モバイルアプリエンジニア → チームリーダー', points: ['IoTデバイス連携モバイルアプリの開発'] },
       ],
@@ -129,7 +129,7 @@ export const COPY: Record<Lang, Copy> = {
     stats: [
       { value: '15+', label: 'years building products' },
       { value: '17', label: 'studio features' },
-      { value: '4', label: 'areas: IoT, aviation, finance, enterprise software' },
+      { value: '4', label: 'areas: IoT, drones, finance, enterprise software' },
       { value: 'N2', label: 'Japanese (JLPT)' },
     ],
     studio: {
@@ -176,7 +176,7 @@ export const COPY: Record<Lang, Copy> = {
       eras: [
         { period: '2025 —', field: 'Enterprise IT (Japan)', role: 'Bridge Systems Engineer', current: true, points: ['Technical coordination and incident response with the client', 'Contributing to the development of an AI platform'] },
         { period: '2024 — 2025', field: 'Finance (Japan)', role: 'Systems Engineer', points: ['App development for a financial institution'] },
-        { period: '2021 — 2023', field: 'Aviation', role: 'Software Engineer', points: ['Developed business systems for the aviation industry'] },
+        { period: '2021 — 2023', field: 'Drones', role: 'Software Engineer', points: ['Developed systems for the drone industry'] },
         { period: '2014 — 2021', field: 'Enterprise mobile & web', role: 'Full-stack Engineer → Team Lead', points: ['Full-stack development across iOS, Android and Vue.js', 'Led system design and technology selection; worked across each stage of development'] },
         { period: '2009 — 2014', field: 'Smart home & IoT', role: 'Mobile Developer → Team Lead', points: ['Mobile apps for connected devices'] },
       ],
@@ -197,7 +197,7 @@ export const COPY: Record<Lang, Copy> = {
     stats: [
       { value: '15+', label: '年產品開發' },
       { value: '17', label: '項工作室功能' },
-      { value: '4', label: '個領域：IoT・航空・金融・企業系統' },
+      { value: '4', label: '個領域：IoT・無人機・金融・企業系統' },
       { value: 'N2', label: '日本語能力試驗' },
     ],
     studio: {
@@ -244,7 +244,7 @@ export const COPY: Record<Lang, Copy> = {
       eras: [
         { period: '2025 —', field: '企業 IT（日本）', role: '橋接 SE', current: true, points: ['與委託方的技術協調與故障處理', '參與 AI 基盤建置'] },
         { period: '2024 — 2025', field: '金融（日本）', role: '系統工程師', points: ['金融機構 App 開發'] },
-        { period: '2021 — 2023', field: '航空', role: '系統開發工程師', points: ['航空業務系統開發'] },
+        { period: '2021 — 2023', field: '無人機', role: '系統開發工程師', points: ['無人機產業系統開發'] },
         { period: '2014 — 2021', field: '企業行動端／Web', role: '全端工程師 → 團隊負責人', points: ['iOS／Android／Vue.js 全端開發', '負責設計與技術選型，參與各開發階段'] },
         { period: '2009 — 2014', field: '智慧家居・IoT', role: '行動 App 工程師 → 團隊負責人', points: ['IoT 裝置連動的行動 App 開發'] },
       ],
@@ -265,7 +265,7 @@ export const COPY: Record<Lang, Copy> = {
     stats: [
       { value: '15+', label: '年产品开发' },
       { value: '17', label: '项工作室功能' },
-      { value: '4', label: '个领域：IoT・航空・金融・企业系统' },
+      { value: '4', label: '个领域：IoT・无人机・金融・企业系统' },
       { value: 'N2', label: '日本语能力考试' },
     ],
     studio: {
@@ -312,7 +312,7 @@ export const COPY: Record<Lang, Copy> = {
       eras: [
         { period: '2025 —', field: '企业 IT（日本）', role: '桥接 SE', current: true, points: ['与委托方的技术协调与故障处理', '参与 AI 基盘建设'] },
         { period: '2024 — 2025', field: '金融（日本）', role: '系统工程师', points: ['金融机构 App 开发'] },
-        { period: '2021 — 2023', field: '航空', role: '系统开发工程师', points: ['航空业务系统开发'] },
+        { period: '2021 — 2023', field: '无人机', role: '系统开发工程师', points: ['无人机行业系统开发'] },
         { period: '2014 — 2021', field: '企业移动端／Web', role: '全栈工程师 → 团队负责人', points: ['iOS／Android／Vue.js 全栈开发', '负责设计与技术选型，参与各开发阶段'] },
         { period: '2009 — 2014', field: '智能家居・IoT', role: '移动 App 工程师 → 团队负责人', points: ['IoT 设备联动的移动 App 开发'] },
       ],
